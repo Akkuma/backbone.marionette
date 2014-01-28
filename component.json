@@ -31,6 +31,7 @@
   "dependencies": {
     "marionettejs/backbone.babysitter": "*",
     "marionettejs/backbone.wreqr": "*",
+    "virtru-components/underscore": "*",
     "virtru-components/backbone": "*"
   },
   "scripts": [
