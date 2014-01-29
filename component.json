@@ -29,10 +29,10 @@
     "web": "http://derickbailey.lostechies.com"
   },
   "dependencies": {
-    "virtru-components/backbone.babysitter": "*",
-    "virtru-components/backbone.wreqr": "*",
+    "virtru-components/backbone.babysitter": "0.0.6",
+    "virtru-components/backbone.wreqr": "0.2.0",
     "virtru-components/underscore": "*",
-    "virtru-components/backbone": "*"
+    "virtru-components/backbone": "1.1.0"
   },
   "scripts": [
     "lib/core/amd/backbone.marionette.js" 
