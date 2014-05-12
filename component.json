@@ -31,8 +31,8 @@
   "dependencies": {
     "virtru-components/backbone.babysitter": "0.0.6",
     "virtru-components/backbone.wreqr": "0.2.0",
-    "virtru-components/underscore": "*",
-    "virtru-components/backbone": "1.1.0"
+    "virtru-components/underscore": "1.4.4",
+    "virtru-components/backbone": "1.1.2"
   },
   "scripts": [
     "lib/core/amd/backbone.marionette.js" 
