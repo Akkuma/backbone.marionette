@@ -29,8 +29,8 @@
     "web": "http://derickbailey.lostechies.com"
   },
   "dependencies": {
-    "virtru-components/backbone.babysitter": "0.0.6",
-    "virtru-components/backbone.wreqr": "0.2.0",
+    "virtru-components/backbone.babysitter": "0.0.7",
+    "virtru-components/backbone.wreqr": "0.2.1",
     "virtru-components/underscore": "1.4.4",
     "virtru-components/backbone": "1.1.3"
   },
