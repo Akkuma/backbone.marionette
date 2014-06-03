@@ -1,7 +1,7 @@
 {
   "name": "backbone.marionette",
   "description": "Make your Backbone.js apps dance!",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "repo": "marionettejs/backbone.marionette",
   "main": "lib/core/amd/backbone.marionette.js",
   "keywords": [
@@ -32,7 +32,7 @@
     "virtru-components/backbone.babysitter": "0.0.6",
     "virtru-components/backbone.wreqr": "0.2.0",
     "virtru-components/underscore": "1.4.4",
-    "virtru-components/backbone": "1.1.2"
+    "virtru-components/backbone": "1.1.3"
   },
   "scripts": [
     "lib/core/amd/backbone.marionette.js" 
