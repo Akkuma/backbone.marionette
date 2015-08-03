@@ -2,6 +2,7 @@
   "name": "backbone.marionette",
   "description": "Make your Backbone.js apps dance!",
   "version": "1.5.5",
+  "main": "./backbone.marionette.js",
   "dependencies": {
     "backbone.babysitter": "git+ssh://git@github.com:virtru-components/backbone.babysitter.git#0.0.8",
     "backbone.wreqr": "git+ssh://git@github.com:virtru-components/backbone.wreqr.git#0.0.8",
