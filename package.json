@@ -4,8 +4,8 @@
   "version": "1.5.5",
   "main": "./backbone.marionette.js",
   "dependencies": {
-    "backbone.babysitter": "git+ssh://git@github.com:virtru-components/backbone.babysitter.git",
-    "backbone.wreqr": "git+ssh://git@github.com:virtru-components/backbone.wreqr.git",
+    "backbone.babysitter": "git+ssh://git@github.com:Akkuma/backbone.babysitter.git",
+    "backbone.wreqr": "git+ssh://git@github.com:Akkuma/backbone.wreqr.git",
     "underscore": "git+ssh://git@github.com:virtru-components/underscore.git#1.4.5",
     "backbone": "git+ssh://git@github.com:Akkuma/backbone.git#patch-1"
   }
